@@ -1,0 +1,10 @@
+pyinstaller
+google==3.0.0
+google-generativeai
+opencv-python-headless
+scikit-image
+selenium
+Pillow
+requests
+tqdm
+tk
